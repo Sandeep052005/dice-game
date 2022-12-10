@@ -12,7 +12,7 @@ while True:
     if score==0:
       a1="times! 😂"
     elif score==1:
-      a1="time! 🥱"
+      a1="time! "
     elif score==2:
       a1="times! 😃"
     else:
