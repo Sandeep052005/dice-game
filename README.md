@@ -7,7 +7,7 @@ print("_________\n")
 print("Welcome To Dice Game🎲")
 print("_________\n")
 while True:
-  a=input(">>>Enter Your Guess 🤫:  ")
+  a=input(">>>Enter Your Guess :  ")
   if a.lower()=='quit':
     if score==0:
       a1="times! 😂"
